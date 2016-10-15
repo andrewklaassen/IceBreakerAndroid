@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IceBreaker</string>
+    <string name="slogan">\n\n\nThe best way to start a\n conversation with a stranger\n\n\n</string>
+    <string name="logoDescription">Logo</string>
+    <string name="facebook_app_id">138165519981503</string>
+    <string name="cancel_login">Login was cancelled.</string>
+    <string name="error">Login incurred an <error></error>.</string>
+    <string name="done">Done</string>
+    <string name="edit_your_profile">Edit Your Profile</string>
+    <string name="threethings">Tell others three things about yourself</string>
+    <string name="profile_picture">profile picture</string>
+</resources>
